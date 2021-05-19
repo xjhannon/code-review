@@ -16,6 +16,7 @@ Keep an eye out for code smells, potential errors, code style inconsistencies et
 exercise is to **spawn conversation**, not necessarily to test your abilities or to "find all the bugs".  Some things
 you may find are subjective, and that's okay.  We'd love to hear your opinion on those things.
 
+Also, If you'd like, you can attempt to fix the problems you see using a Pull Request. This is not required but might provide a good framework for our conversation.
 
 ---
 **NOTE**
