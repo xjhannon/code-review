@@ -18,6 +18,8 @@ you may find are subjective, and that's okay.  We'd love to hear your opinion on
 
 Also, If you'd like, you can attempt to fix the problems you see using a Pull Request. This is not required but might provide a good framework for our conversation.
 
+If you decide to do a Pull Request, please fork the repo following the instructions [here](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
+
 ---
 **NOTE**
 
