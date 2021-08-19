@@ -13,6 +13,7 @@ public class User {
     private String firstName;
     private String lastName;
     private String email;
+    // todo: wasn't private or public- was it to be a persisted instance var?
     public Boolean enabled;
     private String city;
 
@@ -32,6 +33,7 @@ public class User {
         this.zipCode = zipCode;
     }
 
+    // TODO zip declared after set/get- move to be with other declarations
     private String zipCode;
 
     public Long getId() {
